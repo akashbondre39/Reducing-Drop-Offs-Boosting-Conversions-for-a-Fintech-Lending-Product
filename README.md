@@ -73,11 +73,11 @@ For users dropping off at the "Offer Screen," I correlated the drop-off with the
 - **Business Reality:** The strict liveness detection SDK was too heavy for older Android phones, causing the app to crash or lag, leading to user frustration.
 
 **Root Cause 2: Income Verification Friction (UX)**
-- **Data Evidence:** Median time spent on "Bank Statement Upload" was **12 minutes**.
+- **Data Evidence:** Median time spent on "Bank Statement Upload" was **7 minutes**.
 - **Business Reality:** Users were asked to upload PDFs manually. Most users are mobile-first and do not have PDF bank statements saved on their phones.
 
 ## 7. Recommendations & Experiments
-Based on the data, I proposed three initiatives prioritized by **ICE (Impact, Confidence, Ease).**
+Based on the data, I proposed three initiatives.
 
 | Experiment | Hypothesis | Action | Success Metric |
 |------------|------------|--------|----------------|
